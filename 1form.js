@@ -4,6 +4,6 @@
 
 <script>
 function redirectPage() {
-  window.location.href = "file:///C:/Users/ITLABSMA/Documents/Justin%20Musk/project/sum/1men.html";
+  window.location.href = " https://justinlai2325.github.io/1men.html/";
 }
 </script>
